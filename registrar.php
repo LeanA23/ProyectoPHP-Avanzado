@@ -19,7 +19,7 @@ $mail->SMTPSecure = "tls";
 $mail->Host = "smtp.gmail.com"; 
 $mail->Port = 587;
 $mail->Username = "reloco23@gmail.com"; 
-$mail->Password = "matador450"; 
+$mail->Password = ""; 
 		
 $mail->IsHTML(true);
 $mail->From = "reloco23@gmail.com";
